@@ -1,5 +1,5 @@
 # Computação Natural - Deep Reinforcement Learning
-University project for Natural Computing in Python - course of Computer Engineering at University of Minho.
+University project for Natural Computing in Python - course of Software Engineering at University of Minho.
 
 ## So, what is this?
 This project involves the development of a Deep Reinforcement Learning algorithm to create an agent able to play the Breakout game from the Atari 2600 console.
